@@ -23,7 +23,7 @@ DOS-CDP-FLOODING/
 
 La documentación técnica completa de este laboratorio está disponible en:
 
-**[Documentación Tecnica Profesional DOS-CDP FLOODING (Randy Nin -- 2025-0660).pdf](./Documentación Tecnica Profesional DOS-CDP FLOODING (Randy Nin -- 2025-0660).pdf)**
+**[[./Documentación Tecnica Profesional DOS-CDP FLOODING (Randy Nin -- 2025-0660).pdf|Documentación Tecnica Profesional DOS-CDP FLOODING (Randy Nin -- 2025-0660).pdf]]**
 
 Incluye:
 
@@ -138,7 +138,7 @@ R1(config-if)# no cdp enable
 
 ## Video demostrativo
 
-*(pendiente - enlace de YouTube)*
+**Enlace:** [https://youtu.be/9U_8M-r_Wf8](https://youtu.be/9U_8M-r_Wf8)
 
 ---
 
