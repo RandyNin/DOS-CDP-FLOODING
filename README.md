@@ -1,6 +1,5 @@
 # DOS-CDP-FLOODING
 
----
 
 > **Autor:** Randy Nin
 > **Laboratorio de Seguridad de Redes | GNS3**
