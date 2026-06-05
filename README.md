@@ -102,6 +102,8 @@ El checksum se calcula manualmente mediante complemento a uno antes de cada env�
 
 ## Entorno de laboratorio
 
+<img src="IMG/Topology.png" alt="Descripción" width="523"/>
+
 | Dispositivo | Rol | Interfaz | Sistema |
 |:---|:---|:---|:---|
 | R1 | Víctima | Fa 1/15 | Cisco 3725 / IOS 124-15.T14 |
