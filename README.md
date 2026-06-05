@@ -23,7 +23,7 @@ DOS-CDP-FLOODING/
 
 La documentación técnica completa de este laboratorio está disponible en:
 
-**[[Documentación Tecnica Profesional DOS-CDP FLOODING (Randy Nin -- 2025-0660).pdf]]**
+[Documentación Tecnica Profesional DOS-CDP FLOODING (Randy Nin -- 2025-0660).pdf)](./Documentación%20Tecnica%20Profesional%20DOS-CDP%20FLOODING%20(Randy%20Nin%20--%202025-0660).pdf)
 
 Incluye:
 
