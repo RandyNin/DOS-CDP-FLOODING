@@ -140,7 +140,7 @@ R1(config-if)# no cdp enable
 
 ## Video demostrativo
 
-**Enlace:** [https://youtu.be/9U_8M-r_Wf8](https://youtu.be/9U_8M-r_Wf8)
+**Enlace:** [https://www.youtube.com/watch?v=9U_8M-r_Wf8&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp](https://www.youtube.com/watch?v=9U_8M-r_Wf8&list=PLxMefEiS_P6q8N0wKhpkK-Jj_UT1Bmuzp)
 
 ---
 
